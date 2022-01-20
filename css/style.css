@@ -1,0 +1,10 @@
+.panda-slide-bg{
+    background-color: #FCEAE8
+}
+.panda-btn{
+    color: white;
+    background: linear-gradient(#FF4891, rgb(190, 18, 233));
+    border-radius: 10px;
+    border: none;
+    padding: 5px 20px;
+}
